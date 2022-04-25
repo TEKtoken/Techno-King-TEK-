@@ -1,1 +1,9 @@
-# Techno-King-TEK-
+# Techno King (TEK)
+
+It is a BEP20 token made in a private, exclusive group and aims to have a fixed supply of 21 million tokens. This coin has no utility function beyond its value as an asset. There are no plans to use it as a mean of payment or a way of moving any value whatsoever. The value of this coin is purely based on speculation. It is made for crypto collectors. Its value depends on the following factors: interest in the project itself, scarcity, and demand. The team has not issued any announcements of any special development or use of the token. As this coin is made for pure speculation.
+
+
+Its future will depend on the current cryptocurrency market’s behavior. As for the price, it is dependent on the following factors: the team’s work, the number of people who will want to buy it for speculation, and the market value of the underlying blockchain.
+
+
+Disclaimer: The information presented in this material is of a general nature and is not a specific recommendation to any person. It should not be construed as financial or investment advice. The author is not a qualified financial advisor and neither does he or any of the mentioned third parties guarantee the efficacy, or the results of his or her recommendations. Investing in crypto assets involves a great deal of risk, and may result in loss of part or all of the invested capital. As with any investment, you should not use this information alone without an independent expert to verify it. There are always risk factors involved and this section must be read carefully.
