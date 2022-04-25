@@ -1,4 +1,5 @@
-# Techno King (TEK)
+# Techno King
+Symbol: TEK
 Contract Address: 0x58b81Bcaa8fDAf8E3c56588f0EA89094e00a84A5
 
 It is a BEP20 token made in a private, exclusive group and aims to have a fixed supply of 21 million tokens. This coin has no utility function beyond its value as an asset. There are no plans to use it as a mean of payment or a way of moving any value whatsoever. The value of this coin is purely based on speculation. It is made for crypto collectors. Its value depends on the following factors: interest in the project itself, scarcity, and demand. The team has not issued any announcements of any special development or use of the token. As this coin is made for pure speculation.
